@@ -1,4 +1,7 @@
 # Kids-Toy-TicTacToe
+Final Project for ECE387
+Project By: Michael Mattingly
+
 For my project i decided to create a Tic Tac Toe Board for kids of all Ages.
 
 Attached in the file are two different documents. The first being the Arduino code to upload onto your Arduino Uno and the second being a ".h" library called Charlieplexing. 
