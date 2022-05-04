@@ -39,3 +39,8 @@ Computer Wins:
 
 https://user-images.githubusercontent.com/98491651/166610589-7434c4e9-6e06-4b72-a0c6-3387bb629566.mov
 
+
+Future Work:
+  - Create an external case surounding the board
+  - Improve Current Wire Connections
+  - Improve Reset Button
